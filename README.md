@@ -1,5 +1,5 @@
 # CS345-Text-Recognition
-This is the GitHub repo for our CS345 project, Text Recognition with LSDM.
+This is the GitHub repo for our CS345 project, Text Recognition with LSTM.
 
 *Code help and referance was provided from Prof. Asa Ben-Hur and CS 345: Machine Learning Foundations and Practice at Colorado State University.
 Original versions of these notebooks were created by Asa Ben-Hur with updates by Ross Beveridge.
